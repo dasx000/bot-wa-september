@@ -1,0 +1,86 @@
+[
+  {
+    "jid": "6285875990859@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "994409252794@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#thanksto",
+        "count": 1
+      },
+      {
+        "nama": "#ttp",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#meme1",
+        "count": 1
+      },
+      {
+        "nama": "#fpslogo",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285216024226@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#thanksto",
+        "count": 1
+      },
+      {
+        "nama": "#donasi",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282337990201@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 1
+      },
+      {
+        "nama": "#ytmp3",
+        "count": 1
+      },
+      {
+        "nama": "#ytmp4",
+        "count": 1
+      }
+    ]
+  }
+]
